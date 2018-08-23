@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+
+div#area {
+    font-family: monospace;
+    padding: 10px;
+}
+
+.error {
+    background-color: #ffa0a0;
+    border: solid 1px red;
+}
+
+div#msg {
+    font-size: 3vh;
+}
